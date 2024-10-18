@@ -1,0 +1,15 @@
+C:\Users\nicha\OneDrive\Desktop\CodeAcademy\C#\TasksForHome\Task10 -Abstract class\Abstract class\Abstract class\bin\Debug\net6.0\Abstract class.exe
+C:\Users\nicha\OneDrive\Desktop\CodeAcademy\C#\TasksForHome\Task10 -Abstract class\Abstract class\Abstract class\bin\Debug\net6.0\Abstract class.deps.json
+C:\Users\nicha\OneDrive\Desktop\CodeAcademy\C#\TasksForHome\Task10 -Abstract class\Abstract class\Abstract class\bin\Debug\net6.0\Abstract class.runtimeconfig.json
+C:\Users\nicha\OneDrive\Desktop\CodeAcademy\C#\TasksForHome\Task10 -Abstract class\Abstract class\Abstract class\bin\Debug\net6.0\Abstract class.dll
+C:\Users\nicha\OneDrive\Desktop\CodeAcademy\C#\TasksForHome\Task10 -Abstract class\Abstract class\Abstract class\bin\Debug\net6.0\Abstract class.pdb
+C:\Users\nicha\OneDrive\Desktop\CodeAcademy\C#\TasksForHome\Task10 -Abstract class\Abstract class\Abstract class\obj\Debug\net6.0\Abstract class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicha\OneDrive\Desktop\CodeAcademy\C#\TasksForHome\Task10 -Abstract class\Abstract class\Abstract class\obj\Debug\net6.0\Abstract class.AssemblyInfoInputs.cache
+C:\Users\nicha\OneDrive\Desktop\CodeAcademy\C#\TasksForHome\Task10 -Abstract class\Abstract class\Abstract class\obj\Debug\net6.0\Abstract class.AssemblyInfo.cs
+C:\Users\nicha\OneDrive\Desktop\CodeAcademy\C#\TasksForHome\Task10 -Abstract class\Abstract class\Abstract class\obj\Debug\net6.0\Abstract class.csproj.CoreCompileInputs.cache
+C:\Users\nicha\OneDrive\Desktop\CodeAcademy\C#\TasksForHome\Task10 -Abstract class\Abstract class\Abstract class\obj\Debug\net6.0\Abstract class.sourcelink.json
+C:\Users\nicha\OneDrive\Desktop\CodeAcademy\C#\TasksForHome\Task10 -Abstract class\Abstract class\Abstract class\obj\Debug\net6.0\Abstract class.dll
+C:\Users\nicha\OneDrive\Desktop\CodeAcademy\C#\TasksForHome\Task10 -Abstract class\Abstract class\Abstract class\obj\Debug\net6.0\refint\Abstract class.dll
+C:\Users\nicha\OneDrive\Desktop\CodeAcademy\C#\TasksForHome\Task10 -Abstract class\Abstract class\Abstract class\obj\Debug\net6.0\Abstract class.pdb
+C:\Users\nicha\OneDrive\Desktop\CodeAcademy\C#\TasksForHome\Task10 -Abstract class\Abstract class\Abstract class\obj\Debug\net6.0\Abstract class.genruntimeconfig.cache
+C:\Users\nicha\OneDrive\Desktop\CodeAcademy\C#\TasksForHome\Task10 -Abstract class\Abstract class\Abstract class\obj\Debug\net6.0\ref\Abstract class.dll
